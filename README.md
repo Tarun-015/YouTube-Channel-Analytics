@@ -11,7 +11,7 @@ This Power BI project provides a detailed performance analysis of a YouTube chan
 - Engagement Analysis (Likes, Comments, Watch Time)
 - Interactive Filters for Date & Video Titles
 
----
+
 
 ## 🧰 Tools Used
 
@@ -24,5 +24,23 @@ This Power BI project provides a detailed performance analysis of a YouTube chan
 ## 📁 Dataset
 
 Sample dataset is available in `dataset/youtube_data.csv`
+
+## 📎 How to Use
+1. Clone the repository
+2. Open `.pbix` file using **Power BI Desktop**
+3. Refresh data (if connected) or explore the existing visuals
+
+
+
+## 🙋‍♂️ About the Creator
+**Tarun Chaudhary**  
+📍 Data Science Student at IIT Madras  
+🔗 [LinkedIn](https://www.linkedin.com/in/tarun-chaudhary-5812bb326)
+
+
+
+## ⭐ If you like this project...
+Give it a ⭐ on GitHub and connect with me!
+
 
 
