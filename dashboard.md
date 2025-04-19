@@ -1,6 +1,6 @@
 # 📊 YouTube Channel Analytics Dashboard | Power BI
 
-![Dashboard Banner](./Screenshots/Dashboard.png)
+![Dashboard Banner](Dashboard.png)
 
 ## 📁 Dataset Summary
 The dataset contains basic metrics for each video:
@@ -33,7 +33,7 @@ The dataset contains basic metrics for each video:
 ## 📷 Screenshots
 
 ### 🔹 Dashboard Overview  
-![Dashboard](./Screenshots/Dashboard.png)  
+![Dashboard](Dashboard.png)  
 *Visualizing channel performance using clear and intuitive charts.*
 
 
