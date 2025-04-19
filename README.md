@@ -11,6 +11,9 @@ This Power BI project provides a detailed performance analysis of a YouTube chan
 - Engagement Analysis (Likes, Comments, Watch Time)
 - Interactive Filters for Date & Video Titles
 
+### 🔹 Dashboard Overview  
+![Dashboard](Dashboard.png)  
+*Visualizing channel performance using clear and intuitive charts.*
 
 
 ## 🧰 Tools Used
