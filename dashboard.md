@@ -29,15 +29,6 @@ The dataset contains basic metrics for each video:
 - **Clean layout** with highlighted KPIs and a professional color palette
 
 
-
-## 📷 Screenshots
-
-### 🔹 Dashboard Overview  
-![Dashboard](Dashboard.png)  
-*Visualizing channel performance using clear and intuitive charts.*
-
-
-
 ## 🛠️ Tools & Skills Used
 - **Power BI Desktop**
 - **Power Query Editor** for data cleaning
